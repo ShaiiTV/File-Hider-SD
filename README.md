@@ -1,2 +1,2 @@
-# NSFW-Hide-SD
-An NSFW hider for stable diffusion.
+# File-Hider-SD
+An File hider for stable diffusion.
